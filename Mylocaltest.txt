@@ -1,1 +1,0 @@
-This is my first text file that i want to move or push from local to github repository.
