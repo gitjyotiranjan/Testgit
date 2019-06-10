@@ -1,0 +1,19 @@
+test_name: ptaassampletest
+test_folder_path: "Tests\\mytests"
+test_content:
+  group:
+    - group_name: "TEstInt"
+      vusers: '20'
+      script_path: "plugin\\TEstInt"
+      lg_name:
+        - "LG1"
+        - "LG2"
+    - group_name: "Mtours"
+      vusers: '20'
+      script_path: "plugin\\mtours"
+      lg_name:
+        - "LG3"
+        - "LG4"
+  scheduler:
+    rampup: '2'
+    duration: '120'
