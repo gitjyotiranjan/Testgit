@@ -1,5 +1,3 @@
-test_name: mytestnew
-test_folder_path: "ptaas"
 test_content:
   group:
     - group_name: "samplescript"
