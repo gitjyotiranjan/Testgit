@@ -1,7 +1,7 @@
 group:
   - group_name: "samplescript"
     vusers: '3'
-    script_path: "ptaas\\script\\samplescript"
+    script_path: "ptaas\\samplescript"
     lg_name:
       - "LG2"
 scheduler:
