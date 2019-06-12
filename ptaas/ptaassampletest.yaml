@@ -5,5 +5,5 @@ group:
     lg_name:
       - "LG2"
 scheduler:
-  rampup: '5'
+  rampup: '6'
   duration: '90'
