@@ -1,0 +1,9 @@
+group:
+  - group_name: "samplescript"
+    vusers: '2'
+    script_path: "ptaas\\samplescript"
+    lg_name:
+      - "LG1"
+scheduler:
+  rampup: '4'
+  duration: '90'
