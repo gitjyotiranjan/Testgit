@@ -6,4 +6,4 @@ group:
       - "LG2"
 scheduler:
   rampup: '6'
-  duration: '0'
+  duration: '90'
