@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\user\Desktop\samplescript
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\users\user\desktop\samplescript\\logfile.log
+c:\users\user\desktop\samplescript\\combined_samplescript.c
+c:\users\user\desktop\samplescript\\pre_cci.c

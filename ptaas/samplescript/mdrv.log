@@ -1,0 +1,7 @@
+Virtual User Script started at : 2019-06-10 17:26:43
+Warning: The "vuser_init" section contains step(s) when the "Simulate a new user on each iteration" Run-Time Setting is ON.  This may produce unpredictable results with multiple iterations.
+Running Vuser...
+Starting iteration 1.
+t=00114110ms: Error -205177:  IPC connection to browser process is lost    [MsgId: MERR-205177]
+Ending iteration 1.
+Abort was called from an action
